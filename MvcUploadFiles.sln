@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{211A2E85-73E0-4AE1-AEDE-DFBCDB94C12A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcUploadFiles", "WebApplication1\MvcUploadFiles.csproj", "{211A2E85-73E0-4AE1-AEDE-DFBCDB94C12A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

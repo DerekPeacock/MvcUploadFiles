@@ -20,7 +20,8 @@ namespace WebApplication1.Migrations
                     Firstname = "David",
                     Surname = "Smith",
                     Subject = "GCSE ICT",
-                    Mark = 67
+                    Mark = 67,
+                    ImageURL = "David.jpg"
                 },
                 new Student
                 {
@@ -28,7 +29,8 @@ namespace WebApplication1.Migrations
                     Firstname = "Anita",
                     Surname = "Rhani",
                     Subject = "GCSE English",
-                    Mark = 57
+                    Mark = 57,
+                    ImageURL = "Anita.jpg"
                 },
                     new Student
                     {
@@ -36,7 +38,8 @@ namespace WebApplication1.Migrations
                         Firstname = "George",
                         Surname = "Robson",
                         Subject = "GCSE Maths",
-                        Mark = 87
+                        Mark = 87,
+                        ImageURL = "George.jpg"
                     },
                     new Student
                     {
@@ -44,7 +47,8 @@ namespace WebApplication1.Migrations
                         Firstname = "Veena",
                         Surname = "Ralhan",
                         Subject = "Computing",
-                        Mark = 33
+                        Mark = 33,
+                        ImageURL = "Veena.jpg"
                     }
                 );
         }
